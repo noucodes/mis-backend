@@ -2,7 +2,7 @@ package routes
 
 import (
 	"github.com/gofiber/fiber/v2"
-	"mis-backend/handlers"
+	"github.com/noucodes/mis-backend/handlers"
 )
 
 func SetupRoutes(app *fiber.App) {

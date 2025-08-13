@@ -1,4 +1,4 @@
-module github.com/noucodes/mis-backend.git
+module github.com/noucodes/mis-backend
 
 go 1.24.6
 

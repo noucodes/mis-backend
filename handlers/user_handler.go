@@ -3,9 +3,10 @@ package handlers
 import (
 	"context"
 	"log"
-	"mis-backend/config"
-	"mis-backend/models"
+
 	"github.com/gofiber/fiber/v2"
+	"github.com/noucodes/mis-backend/config"
+	"github.com/noucodes/mis-backend/models"
 )
 
 func GetUsers(c *fiber.Ctx) error {

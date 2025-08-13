@@ -4,8 +4,8 @@ import (
 	"log"
 	"os"
 
-	"mis-backend/config"
-	"mis-backend/routes"
+	"github.com/noucodes/mis-backend/config"
+	"github.com/noucodes/mis-backend/routes"
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/joho/godotenv"
